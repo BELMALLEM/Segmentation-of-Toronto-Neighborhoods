@@ -439,8 +439,7 @@ map_clusters
 
 ### <br>Thank you for going to the end!
 
-This notebook was created by [Marouane Belmallem](https://www.linkedin.com/in/marouane-belmallem/). Feel free to contact us if you have any questions!
+This notebook was created by [Marouane Belmallem](https://www.linkedin.com/in/marouane-belmallem/).!
 
 <hr>
-
-Copyright &copy; 2020. This notebook and its source code are released under the terms of the [MIT License](https://bigdatauniversity.com/mit-license/).
+Feel free to use this notebook!
